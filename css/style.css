@@ -481,7 +481,6 @@ footer .section-padding{
 
 #login-body{
     height: 100vh;
-    overflow: hidden;
     display: flex;
     align-items: center;
 }
